@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+nav{
+    font-size: 20px;
+    margin: 40px;
+    text-align: center;
+    display: flex;
+    
+}
+
+.link-nav{
+    text-decoration: none;
+    border: solid 3px orange;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: orange;
+    color: white;
+    margin: 10px;
+ 
+}
+
+.link-header{
+    text-decoration: none;
+     font-size: 30px;
+         border: solid 3px blue;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    margin: 10px;
+   
+}
+
+header{
+    text-align: center;
+    background-color: cornsilk;
+    display: flex;
+}
+
+main{
+    background-color: cornsilk;}
+
